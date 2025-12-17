@@ -1,0 +1,2 @@
+cloudbees-folder:6.1026.ve06dfa_cf31c3
+matrix-auth:3.2.8
