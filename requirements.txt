@@ -1,7 +1,7 @@
 pandas>=1.3.0
 numpy
 google-cloud-storage
-scikit-learn==1.3.2
+scikit-learn>=1.5.1
 pyyaml
 imbalanced-learn
 lightgbm
